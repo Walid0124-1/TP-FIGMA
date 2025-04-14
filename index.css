@@ -1,0 +1,407 @@
+body{
+    padding: 0%;
+    margin: 0%;
+}
+
+.div1{
+    background: linear-gradient(216.04deg, #27C0EF 13.84%, #00A8DB 83.53%);
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 50px 0px 50px;
+}
+
+.Logo{
+    width: 90px;
+    height: 28px;
+}
+
+.imglogo{
+    width: 100%;
+    height: 100%;
+}
+
+.menu{
+    display: flex;
+    gap: 50px;
+    align-items: center;
+}
+
+.h1menu{
+    margin: 0%;
+    font-size: 15px;
+}
+
+.buttonlogine{
+    width: 80px;
+    height: 30px;
+    background: linear-gradient(278.21deg, #005490 1.66%, #328BCB 96.78%);
+    border-radius: 3px;
+}
+
+.h1div1text{
+    margin: 0%;
+    padding: 0%;
+    
+}
+
+.div1part1{
+    width: 25rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.image2{
+    transform: rotate(-3deg);
+    width: 90px;
+    height: 20px;
+    position: relative;
+    bottom: 7px;
+}
+
+.p1{
+    position: relative;
+    bottom: 10px;
+}
+
+.buttonetp{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.button2{
+    padding: 10px 15px;
+    border-radius: 3px;
+    border: 2px solid #4091cb;
+    color: #00A8DB;
+}
+
+.h1getdemo{
+    margin: 0%;
+}
+
+.div1body{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+
+.div1part2{
+    background-color: #F5F9FF;
+    width: 600px;
+    height: 400px;
+    border-radius: 10px;
+    position: relative;
+    left: 150px;
+    top: 20px;
+}
+
+.divbarh{
+    width: 100%;
+    height: 30px;
+    background-color: white;
+    border-radius: 10px 0px 0px 0px;
+}
+
+.divbarv{
+    width: 30px;
+    height: 100%;
+    background-color: white;
+    border-radius: 10px 0px 0px 10px;
+    position: relative;
+    bottom: 30px;
+    box-shadow: 2px 0px 5px rgba(109, 107, 107, 0.3);
+    display: flex;
+    justify-content: center;
+}
+
+.div1part22{
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+
+.Vector2{
+    width: 15px;
+    height: 15px;
+    margin-top: 7.5px;
+}
+
+.div001{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin: 0%;
+    padding: 0%;
+}
+
+.partgauch{
+    width: 100%;
+}
+
+.Overview{
+    font-size: 24px;
+    color: #183B56;
+    margin-left: 20px;
+}
+
+.div01{
+    background-color: white;
+    width: 200px;
+    height: 100px;
+    border-radius: 5px;
+    position: relative;
+    bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+    margin-right: 30px;
+    box-shadow: 2px 2px 5px rgba(109, 107, 107, 0.3);
+}
+
+.div010001{
+    display: flex;
+    gap: 15px;
+    margin-left: 20px;
+}
+
+.div01001{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.div0101{
+    width: 50px;
+    height: 25px;
+    border-radius: 20px;
+    background-color: #9BE1F8;
+}
+
+.ads{
+    width: 70px;
+    margin-left: 20px;
+}
+
+.div002{
+    background-color: white;
+    width: 170px;
+    height: 80px;
+    border-radius: 10px;
+}
+
+.div02{
+    display: flex;
+    gap: 10px;
+    margin-left: 20px;
+}
+
+.div002{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.div0002{
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+    background-color: #00B8D9;
+}
+
+.div00002{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.divrec1{
+    width: 30px;
+    height: 5px;
+    border-radius: 10px;
+    background-color: #B3BAC5;
+}
+
+.divrec2{
+    width: 60px;
+    height: 5px;
+    border-radius: 10px;
+    background-color: #5A7184;
+}
+
+.div2{
+    width: 100%;
+    margin-top: 90px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.imagesocial{
+    width: 130px;
+    height: 40px;
+}
+
+.div3h1{
+    color: #034D82;
+}
+
+.div3p1{
+    color: #90A3B4;
+}
+
+.div3p2{
+    color: #04AADD;
+}
+
+.div3{
+    display: flex;
+    margin-top: 100px;
+    justify-content: center;
+    align-items: center;
+    gap: 200px;
+}
+
+.div03{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.div0004{
+    display: flex;
+    gap: 15px;
+}
+
+.p0004{
+    margin: 0%;
+    color: #90A3B4;
+}
+
+.h1div4{
+    color: #034D82;
+}
+
+.div4p1{
+    color: #90A3B4;
+}
+
+.div4p2{
+    color: #04AADD;
+}
+
+.div4{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+    gap: 15px;
+}
+
+.div04{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.div5{
+    width: 100%;
+    background-color: #EFFBFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    margin-top: 150px;
+}
+
+.divenfant2{
+    width: 260px;
+    height: 300px;
+    background-color: white;
+}
+
+.enfant2{
+    display: flex;
+    gap: 30px;
+    margin-bottom: 30px;
+}
+
+.parenf1{
+    text-align: center;
+}
+
+.Titreenf1{
+    color: #034D82;
+}
+
+.parenf1{
+    color:  #8EA9C1;
+}
+
+.enfant1{
+    margin-top: 50px;
+}
+
+.enfh1{
+    color: #034D82;
+}
+
+.enfp1{
+    color: #8EA9C1;
+}
+
+.div06h1{
+    color: #034D82;
+}
+
+.div06p1{
+    color: #90A3B4;
+}
+
+.div006{
+    display: flex;
+}
+
+.div6{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+
+.div00602{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.stars{
+    width: 100px;
+}
+
+.div7{
+    width: 100%;
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imagediv7{
+    margin-left: 50px;
+}
+
+.div8{
+    background-color: black;
+    width: 100%;
+    margin-top: 150px ;
+    display: flex;
+    justify-content: center;
+}
